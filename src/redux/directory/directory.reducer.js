@@ -23,6 +23,3 @@ const directoryReducer = (state = INITIAL_STATE, action) => {
 };
 
 export default directoryReducer;
-
-// https://i.ibb.co/cvpntL1/hats.png
-// https://i.ibb.co/px2tCc3/jackets.png
